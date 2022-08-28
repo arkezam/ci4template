@@ -1,0 +1,93 @@
+CRITICAL - 2022-08-28 11:11:32 --> Call to a member function getCompiledSelect() on int
+in APPPATH\Controllers\Ingreso.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-28 11:13:32 --> Object of class CodeIgniter\Database\MySQLi\Builder could not be converted to int
+in APPPATH\Controllers\Ingreso.php on line 43.
+ 1 APPPATH\Controllers\Ingreso.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class CodeIgniter\\Database\\MySQLi\\Builder could not be converted to int', 'APPPATH\\Controllers\\Ingreso.php', 43, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-28 11:13:59 --> Object of class CodeIgniter\Database\MySQLi\Builder could not be converted to string
+in APPPATH\Controllers\Ingreso.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-28 12:05:12 --> Undefined property: CodeIgniter\Database\MySQLi\Builder::$suministro
+in APPPATH\Controllers\Ingreso.php on line 48.
+ 1 APPPATH\Controllers\Ingreso.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Builder::$suministro', 'APPPATH\\Controllers\\Ingreso.php', 48, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-28 12:05:51 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$suministro
+in APPPATH\Controllers\Ingreso.php on line 48.
+ 1 APPPATH\Controllers\Ingreso.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$suministro', 'APPPATH\\Controllers\\Ingreso.php', 48, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-28 12:23:57 --> mysqli_sql_exception: Unknown column 'persona.deleted_at' in 'where clause' in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\fise\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\fise\system\Model.php(181): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\fise\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '48411441')
+#6 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(49): CodeIgniter\BaseModel->find('48411441')
+#7 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+#8 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#9 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-08-28 12:23:57 --> Unknown column 'persona.deleted_at' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *
+FROM `persona`
+WHERE `persona`.`deleted_at` IS NULL
+AND `persona`.`dni` = \'48411441\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `persona`
+WHERE `persona`.`deleted_at` IS NULL
+AND `persona`.`dni` = \'48411441\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `persona`
+WHERE `persona`.`deleted_at` IS NULL
+AND `persona`.`dni` = \'48411441\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `persona`
+WHERE `persona`.`deleted_at` IS NULL
+AND `persona`.`dni` = :persona.dni:', [...], false)
+ 5 SYSTEMPATH\Model.php(181): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(523): CodeIgniter\Model->doFind(true, '48411441')
+ 7 APPPATH\Controllers\Ingreso.php(49): CodeIgniter\BaseModel->find('48411441')
+ 8 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-28 12:24:33 --> Trying to get property 'dni' of non-object
+in APPPATH\Controllers\Ingreso.php on line 51.
+ 1 APPPATH\Controllers\Ingreso.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'dni\' of non-object', 'APPPATH\\Controllers\\Ingreso.php', 51, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-28 12:24:51 --> Array to string conversion
+in APPPATH\Controllers\Ingreso.php on line 51.
+ 1 APPPATH\Controllers\Ingreso.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Ingreso.php', 51, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-28 12:26:42 --> Trying to get property 'dni' of non-object
+in APPPATH\Controllers\Ingreso.php on line 51.
+ 1 APPPATH\Controllers\Ingreso.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'dni\' of non-object', 'APPPATH\\Controllers\\Ingreso.php', 51, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

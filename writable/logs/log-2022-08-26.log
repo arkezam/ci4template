@@ -1,0 +1,1855 @@
+CRITICAL - 2022-08-26 13:05:37 --> Cannot call constructor
+in APPPATH\Controllers\Ingreso.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 13:07:58 --> Cannot call constructor
+in APPPATH\Controllers\Ingreso.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 13:09:44 --> Cannot call constructor
+in APPPATH\Controllers\Ingreso.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 13:12:13 --> Cannot call constructor
+in APPPATH\Controllers\Ingreso.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 13:12:18 --> Cannot call constructor
+in APPPATH\Controllers\Ingreso.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 13:12:40 --> Undefined property: App\Controllers\Ingreso::$session
+in APPPATH\Controllers\Ingreso.php on line 13.
+ 1 APPPATH\Controllers\Ingreso.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Ingreso::$session', 'APPPATH\\Controllers\\Ingreso.php', 13, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 14:41:19 --> Undefined property: App\Controllers\Ingreso::$session
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Ingreso::$session', 'APPPATH\\Controllers\\Ingreso.php', 14, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 14:44:10 --> Undefined property: App\Controllers\Ingreso::$session
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Ingreso::$session', 'APPPATH\\Controllers\\Ingreso.php', 14, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 14:53:36 --> Undefined property: App\Controllers\Ingreso::$session
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Ingreso::$session', 'APPPATH\\Controllers\\Ingreso.php', 14, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 14:53:38 --> Undefined property: App\Controllers\Ingreso::$session
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Ingreso::$session', 'APPPATH\\Controllers\\Ingreso.php', 14, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 14:55:11 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 14, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 14:55:27 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 15, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 14:58:04 --> Undefined property: App\Controllers\Ingreso::$load
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 APPPATH\Controllers\Ingreso.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Ingreso::$load', 'APPPATH\\Controllers\\Ingreso.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 14:59:03 --> Constant expression contains invalid operations
+in APPPATH\Controllers\Ingreso.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-08-26 14:59:57 --> Object of class App\Controllers\Ingreso could not be converted to string
+in APPPATH\Controllers\Ingreso.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:00:10 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 10.
+ 1 APPPATH\Controllers\Ingreso.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 10, [])
+ 2 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:00:36 --> Undefined property: App\Controllers\Ingreso::$load
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Ingreso::$load', 'APPPATH\\Controllers\\Ingreso.php', 18, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:01:59 --> Call to undefined method App\Controllers\Ingreso::view()
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:03:23 --> The route for "http://localhost/fisepanel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fisepanel')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Ingreso.php(16): redirect('http://localhost/fisepanel')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:03:52 --> The route for "http://localhost/fisepanel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fisepanel')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Ingreso.php(18): redirect('http://localhost/fisepanel')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:03:54 --> The route for "http://localhost/fisepanel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fisepanel')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Ingreso.php(18): redirect('http://localhost/fisepanel')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:03:56 --> The route for "http://localhost/fisepanel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fisepanel')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Ingreso.php(18): redirect('http://localhost/fisepanel')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:06:32 --> The route for "http://localhost/fisepanel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fisepanel')
+ 2 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:06:51 --> The route for "http://localhost/fisepanel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fisepanel')
+ 2 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:06:52 --> The route for "http://localhost/fisepanel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fisepanel')
+ 2 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:07:02 --> Call to undefined function App\Controllers\baseURL()
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:19:16 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:19:16 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:20:26 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:20:26 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:20:27 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:20:27 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:21:21 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:21:21 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:21:22 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:25:45 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:25:46 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:25:47 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:25:47 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:25:47 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:26:09 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:26:09 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:26:10 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:26:10 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:26:41 --> syntax error, unexpected '$this' (T_VARIABLE)
+in APPPATH\Controllers\BaseController.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\BaseController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\BaseController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\BaseController')
+ 4 APPPATH\Controllers\Ingreso.php(5): spl_autoload_call('App\\Controllers\\BaseController')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(282): include_once('APPPATH\\Controllers\\Ingreso.php')
+ 6 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Ingreso.php')
+ 7 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ingreso')
+ 8 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ingreso')
+ 9 [internal function]: spl_autoload_call('App\\Controllers\\Ingreso')
+10 SYSTEMPATH\CodeIgniter.php(854): class_exists('\\App\\Controllers\\Ingreso', true)
+11 SYSTEMPATH\CodeIgniter.php(444): CodeIgniter\CodeIgniter->startController()
+12 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:26:48 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:26:50 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:27:09 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:27:10 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:27:10 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:27:11 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:27:19 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:27:19 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:27:39 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:27:40 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:27:49 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:28:08 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:28:09 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:28:10 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 17, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:30:32 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:30:56 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:30:57 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:30:57 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:30:57 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:31:52 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:31:53 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:32:24 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:32:24 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:32:25 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:32:25 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:32:37 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:32:52 --> Object of class CodeIgniter\Session\Session could not be converted to string
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:34:28 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:34:44 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:42:13 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:43:04 --> Call to undefined method App\Controllers\Ingreso::session()
+in APPPATH\Controllers\Ingreso.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:43:05 --> Call to undefined method App\Controllers\Ingreso::session()
+in APPPATH\Controllers\Ingreso.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:43:33 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:50:35 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 15:50:37 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 18, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:02:41 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:02:41 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:03:45 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 21.
+ 1 APPPATH\Controllers\Ingreso.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 21, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:04:15 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 19.
+ 1 APPPATH\Controllers\Ingreso.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 19, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:27:20 --> Undefined property: App\Controllers\Ingreso::$input
+in APPPATH\Controllers\Ingreso.php on line 28.
+ 1 APPPATH\Controllers\Ingreso.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Ingreso::$input', 'APPPATH\\Controllers\\Ingreso.php', 28, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:30:54 --> Undefined variable: res
+in APPPATH\Controllers\Ingreso.php on line 39.
+ 1 APPPATH\Controllers\Ingreso.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: res', 'APPPATH\\Controllers\\Ingreso.php', 39, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:31:34 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 43.
+ 1 APPPATH\Controllers\Ingreso.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 43, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:31:57 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 43.
+ 1 APPPATH\Controllers\Ingreso.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 43, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:32:38 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 43.
+ 1 APPPATH\Controllers\Ingreso.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 43, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:32:45 --> The route for "http://localhost/fisepanel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fisepanel')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Ingreso.php(44): redirect('http://localhost/fisepanel')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:33:12 --> The route for "http://localhost/fise/panel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fise/panel')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Ingreso.php(44): redirect('http://localhost/fise/panel')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:33:25 --> The route for "http://localhost/fise/Panel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fise/Panel')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Ingreso.php(44): redirect('http://localhost/fise/Panel')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:34:22 --> Call to undefined method App\Controllers\Ingreso::redirect()
+in APPPATH\Controllers\Ingreso.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:35:19 --> The route for "http://localhost/fise/panel" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('http://localhost/fise/panel')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Ingreso.php(44): redirect('http://localhost/fise/panel')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:52:08 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 32.
+ 1 APPPATH\Views\ingreso.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 32, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:52:17 --> syntax error, unexpected 'endif' (T_ENDIF), expecting end of file
+in APPPATH\Views\ingreso.php on line 35.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 3 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:52:51 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 32.
+ 1 APPPATH\Views\ingreso.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 32, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:52:51 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 32.
+ 1 APPPATH\Views\ingreso.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 32, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:54:20 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 30.
+ 1 APPPATH\Views\ingreso.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 30, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:54:55 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 32.
+ 1 APPPATH\Views\ingreso.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 32, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:55:36 --> Undefined variable: session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 16:55:52 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:08:38 --> Undefined variable: session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Panel.php(11): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:08:40 --> Undefined variable: session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:08:41 --> Undefined variable: session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:09:05 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:09:38 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:11:53 --> syntax error, unexpected 'echo' (T_ECHO)
+in APPPATH\Views\ingreso.php on line 31.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 3 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:12:04 --> syntax error, unexpected 'echo' (T_ECHO)
+in APPPATH\Views\ingreso.php on line 31.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 3 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:14:38 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH\Views\ingreso.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-08-26 17:15:07 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH\Views\ingreso.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-08-26 17:22:08 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Panel.php(13): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:23:32 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Panel.php(12): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:23:35 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(20): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:24:12 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(19): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:24:13 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\ingreso.php on line 31.
+ 1 APPPATH\Views\ingreso.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\ingreso.php', 31, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ingreso.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('ingreso', [], true)
+ 5 APPPATH\Controllers\Ingreso.php(19): view('ingreso')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:26:39 --> Call to a member function start() on null
+in APPPATH\Controllers\Ingreso.php on line 8.
+ 1 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 17:30:31 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\fise\app\Controllers\Panel.php on line 12
+in SYSTEMPATH\Common.php on line 1123.
+ 1 APPPATH\Controllers\Panel.php(12): view('ingreso', 'Contraseña o email incorrecto')
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 18:54:21 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'fiseddb' in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'fiseddb', 3306, '', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(17): CodeIgniter\Database\BaseConnection->query('SELECT SCHEMA_N...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'fiseddb' in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(17): CodeIgniter\Database\BaseConnection->query('SELECT SCHEMA_N...')
+#3 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-26 18:54:21 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'fiseddb'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Database\BaseConnection->query('SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME=\'yourDbName\'')
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 18:54:25 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'fiseddb' in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'root', '', 'fiseddb', 3306, '', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'fiseddb' in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#3 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-26 18:54:25 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'fiseddb'
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from acceso')
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 18:57:43 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+in APPPATH\Controllers\Ingreso.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 19:00:47 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::resultObject()
+in APPPATH\Controllers\Ingreso.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 19:01:45 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 19:01:46 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 19:01:56 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 19:02:10 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from a...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from a...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from a...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 19:02:10 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('select * from acceso top 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from acceso top 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from acceso top 1')
+ 4 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from acceso top 1')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 19:05:06 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from a...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from a...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from a...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 19:05:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('select * from acceso top 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from acceso top 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from acceso top 1')
+ 4 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from acceso top 1')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 19:05:07 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from a...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from a...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from a...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 19:05:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('select * from acceso top 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from acceso top 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from acceso top 1')
+ 4 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from acceso top 1')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 19:05:24 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from a...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from a...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from a...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 19:05:24 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('select * from acceso top 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from acceso top 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from acceso top 1')
+ 4 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from acceso top 1')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 19:05:43 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from a...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from a...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from a...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 19:05:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('select * from acceso top 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from acceso top 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from acceso top 1')
+ 4 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from acceso top 1')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 19:05:44 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from a...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from a...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from a...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 19:05:44 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('select * from acceso top 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from acceso top 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from acceso top 1')
+ 4 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from acceso top 1')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 19:05:57 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from a...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from a...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from a...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 19:05:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('select * from acceso top 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from acceso top 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from acceso top 1')
+ 4 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from acceso top 1')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 19:07:17 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 19:09:22 --> Object of class mysqli could not be converted to string
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 19:11:07 --> Undefined property: mysqli::$pin
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 APPPATH\Controllers\Ingreso.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: mysqli::$pin', 'APPPATH\\Controllers\\Ingreso.php', 20, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 19:11:44 --> Call to a member function getResult() on array
+in APPPATH\Controllers\Ingreso.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 19:11:45 --> Call to a member function getResult() on array
+in APPPATH\Controllers\Ingreso.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 20:06:53 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':dni: = 2393253' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from a...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from a...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from a...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 20:06:53 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':dni: = 2393253' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('select * from acceso where :dni: = 2393253', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from acceso where :dni: = 2393253')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from acceso where :dni: = 2393253')
+ 4 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Database\BaseConnection->query('select * from acceso where :dni: = 2393253')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:07:02 --> Undefined variable: dni
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dni', 'APPPATH\\Controllers\\Ingreso.php', 15, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:07:03 --> Undefined variable: dni
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dni', 'APPPATH\\Controllers\\Ingreso.php', 15, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 20:08:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':2393253: = 2393253' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from a...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from a...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from a...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(31): CodeIgniter\Database\BaseConnection->query('select * from a...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 20:08:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':2393253: = 2393253' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('select * from acceso where :2393253: = 2393253', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('select * from acceso where :2393253: = 2393253')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('select * from acceso where :2393253: = 2393253')
+ 4 APPPATH\Controllers\Ingreso.php(31): CodeIgniter\Database\BaseConnection->query('select * from acceso where :2393253: = 2393253')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:16:22 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:16:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_row()
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:17:23 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:17:24 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:18:21 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAll()
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:20:37 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:20:38 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:20:52 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:21:00 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:21:01 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:22:41 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countResultAll()
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:22:42 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countResultAll()
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:22:42 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countResultAll()
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:26:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::countResultAll()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:26:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::countResultAll()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:27:42 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::countResult()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:27:42 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::countResult()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:31:32 --> Object of class CodeIgniter\Database\MySQLi\Builder could not be converted to string
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:31:59 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::limit()
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:32:31 --> Call to a member function limit() on array
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:32:42 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getResult
+in APPPATH\Controllers\Ingreso.php on line 22.
+ 1 APPPATH\Controllers\Ingreso.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$getResult', 'APPPATH\\Controllers\\Ingreso.php', 22, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:35:35 --> Undefined variable: builder
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: builder', 'APPPATH\\Controllers\\Ingreso.php', 15, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:35:35 --> Undefined variable: builder
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: builder', 'APPPATH\\Controllers\\Ingreso.php', 15, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:35:35 --> Undefined variable: builder
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: builder', 'APPPATH\\Controllers\\Ingreso.php', 15, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 20:36:44 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'acceso where dni = 2393253' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('acceso where dn...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('acceso where dn...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('acceso where dn...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(14): CodeIgniter\Database\BaseConnection->query('acceso where dn...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 20:36:44 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'acceso where dni = 2393253' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('acceso where dni = 2393253', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('acceso where dni = 2393253')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('acceso where dni = 2393253')
+ 4 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Database\BaseConnection->query('acceso where dni = 2393253')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-26 20:36:46 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'acceso where dni = 2393253' at line 1 in C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\fise\system\Database\MySQLi\Connection.php(292): mysqli->query('acceso where dn...', 0)
+#1 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('acceso where dn...')
+#2 C:\xampp\htdocs\fise\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('acceso where dn...')
+#3 C:\xampp\htdocs\fise\app\Controllers\Ingreso.php(14): CodeIgniter\Database\BaseConnection->query('acceso where dn...')
+#4 C:\xampp\htdocs\fise\system\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+#5 C:\xampp\htdocs\fise\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+#6 C:\xampp\htdocs\fise\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\fise\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-26 20:36:46 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'acceso where dni = 2393253' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('acceso where dni = 2393253', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('acceso where dni = 2393253')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('acceso where dni = 2393253')
+ 4 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Database\BaseConnection->query('acceso where dni = 2393253')
+ 5 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:37:00 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::countAllResults()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:44:42 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:45:07 --> Object of class CodeIgniter\Database\MySQLi\Builder could not be converted to string
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:45:08 --> Object of class CodeIgniter\Database\MySQLi\Builder could not be converted to string
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:45:59 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:47:10 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResults()
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:47:14 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:48:42 --> Undefined variable: query
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 APPPATH\Controllers\Ingreso.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: query', 'APPPATH\\Controllers\\Ingreso.php', 17, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:48:53 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+in APPPATH\Controllers\Ingreso.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:49:10 --> Undefined variable: datos
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: datos', 'APPPATH\\Controllers\\Ingreso.php', 14, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:50:18 --> Undefined variable: builder
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: builder', 'APPPATH\\Controllers\\Ingreso.php', 14, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:50:18 --> Undefined variable: builder
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 APPPATH\Controllers\Ingreso.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: builder', 'APPPATH\\Controllers\\Ingreso.php', 14, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:50:28 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+in APPPATH\Controllers\Ingreso.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:50:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+in APPPATH\Controllers\Ingreso.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:52:51 --> Undefined variable: builder
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 APPPATH\Controllers\Ingreso.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: builder', 'APPPATH\\Controllers\\Ingreso.php', 15, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:53:02 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:53:20 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::getResult()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:53:21 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::getResult()
+in APPPATH\Controllers\Ingreso.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:53:29 --> Undefined property: stdClass::$title
+in APPPATH\Controllers\Ingreso.php on line 18.
+ 1 APPPATH\Controllers\Ingreso.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$title', 'APPPATH\\Controllers\\Ingreso.php', 18, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 20:54:10 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::limit()
+in APPPATH\Controllers\Ingreso.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:10:45 --> The route for "ingreso" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ingreso')
+ 2 APPPATH\Controllers\Ingreso.php(43): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:15:24 --> Undefined property: App\Controllers\Ingreso::$session
+in APPPATH\Controllers\Ingreso.php on line 7.
+ 1 APPPATH\Controllers\Ingreso.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Ingreso::$session', 'APPPATH\\Controllers\\Ingreso.php', 7, [])
+ 2 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:15:52 --> Undefined variable: session
+in APPPATH\Controllers\Ingreso.php on line 7.
+ 1 APPPATH\Controllers\Ingreso.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Ingreso.php', 7, [])
+ 2 SYSTEMPATH\CodeIgniter.php(866): App\Controllers\Ingreso->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:19:29 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+in APPPATH\Controllers\Ingreso.php on line 52.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Ingreso.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ingreso')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ingreso')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Ingreso')
+ 5 SYSTEMPATH\CodeIgniter.php(854): class_exists('\\App\\Controllers\\Ingreso', true)
+ 6 SYSTEMPATH\CodeIgniter.php(444): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:26:11 --> Invalid file: panel.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel.php')
+ 2 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('panel', [], true)
+ 3 APPPATH\Controllers\Panel.php(15): view('panel', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:42:12 --> Array to string conversion
+in APPPATH\Controllers\Ingreso.php on line 60.
+ 1 APPPATH\Controllers\Ingreso.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Ingreso.php', 60, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:42:25 --> Array to string conversion
+in APPPATH\Controllers\Ingreso.php on line 60.
+ 1 APPPATH\Controllers\Ingreso.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Ingreso.php', 60, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:44:08 --> Call to undefined method CodeIgniter\Session\Session::user()
+in APPPATH\Controllers\Ingreso.php on line 60.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:44:23 --> Array to string conversion
+in APPPATH\Controllers\Ingreso.php on line 60.
+ 1 APPPATH\Controllers\Ingreso.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Ingreso.php', 60, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:44:30 --> Trying to get property 'dni' of non-object
+in APPPATH\Controllers\Ingreso.php on line 60.
+ 1 APPPATH\Controllers\Ingreso.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'dni\' of non-object', 'APPPATH\\Controllers\\Ingreso.php', 60, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:44:56 --> Trying to get property 'dni' of non-object
+in APPPATH\Controllers\Ingreso.php on line 60.
+ 1 APPPATH\Controllers\Ingreso.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'dni\' of non-object', 'APPPATH\\Controllers\\Ingreso.php', 60, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:48:02 --> syntax error, unexpected ';', expecting ')'
+in APPPATH\Controllers\Panel.php on line 12.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Panel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Panel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Panel')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Panel')
+ 5 SYSTEMPATH\CodeIgniter.php(854): class_exists('\\App\\Controllers\\Panel', true)
+ 6 SYSTEMPATH\CodeIgniter.php(444): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:48:14 --> Undefined variable: dni
+in APPPATH\Controllers\Panel.php on line 12.
+ 1 APPPATH\Controllers\Panel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dni', 'APPPATH\\Controllers\\Panel.php', 12, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:49:23 --> Undefined variable: dni
+in APPPATH\Controllers\Panel.php on line 12.
+ 1 APPPATH\Controllers\Panel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dni', 'APPPATH\\Controllers\\Panel.php', 12, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:49:24 --> Undefined variable: dni
+in APPPATH\Controllers\Panel.php on line 12.
+ 1 APPPATH\Controllers\Panel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dni', 'APPPATH\\Controllers\\Panel.php', 12, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:53:55 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:54:18 --> Trying to get property 'dni' of non-object
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'dni\' of non-object', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 21:54:29 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:01:02 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:01:02 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:01:03 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:02:22 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:02:29 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:02:53 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:02:54 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:04:35 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:04:35 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:04:43 --> Array to string conversion
+in APPPATH\Controllers\Panel.php on line 11.
+ 1 APPPATH\Controllers\Panel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Controllers\\Panel.php', 11, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:05:32 --> Call to undefined method CodeIgniter\Session\Session::getFlassdata()
+in APPPATH\Controllers\Panel.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:12:55 --> Invalid file: panel.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel.php')
+ 2 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('panel', [], true)
+ 3 APPPATH\Controllers\Panel.php(12): view('panel')
+ 4 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:14:00 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\panel\panel.php on line 18.
+ 1 APPPATH\Views\panel\panel.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\panel\\panel.php', 18, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\panel\\panel.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('panel/panel', [], true)
+ 5 APPPATH\Controllers\Panel.php(12): view('panel/panel')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:15:24 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\panel\panel.php on line 19.
+ 1 APPPATH\Views\panel\panel.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: CodeIgniter\\View\\View::$session', 'APPPATH\\Views\\panel\\panel.php', 19, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\panel\\panel.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1137): CodeIgniter\View\View->render('panel/panel', [], true)
+ 5 APPPATH\Controllers\Panel.php(12): view('panel/panel')
+ 6 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:16:36 --> Undefined variable: session
+in APPPATH\Controllers\Panel.php on line 13.
+ 1 APPPATH\Controllers\Panel.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Panel.php', 13, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:16:39 --> Undefined variable: session
+in APPPATH\Controllers\Panel.php on line 13.
+ 1 APPPATH\Controllers\Panel.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: session', 'APPPATH\\Controllers\\Panel.php', 13, [])
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Panel->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:23:47 --> The route for "ingreso" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ingreso')
+ 2 APPPATH\Controllers\Ingreso.php(69): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->logout()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:24:26 --> The route for "ingreso" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ingreso')
+ 2 APPPATH\Controllers\Ingreso.php(69): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->logout()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:27:23 --> The route for "ingreso" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ingreso')
+ 2 APPPATH\Controllers\Ingreso.php(69): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->logout()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:28:06 --> The route for "ingreso" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ingreso')
+ 2 APPPATH\Controllers\Ingreso.php(69): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->logout()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:29:01 --> The route for "ingreso" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ingreso')
+ 2 APPPATH\Controllers\Ingreso.php(69): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->logout()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:30:02 --> The route for "ingreso" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ingreso')
+ 2 APPPATH\Controllers\Ingreso.php(69): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->logout()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-26 22:31:58 --> The route for "ingreso" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 60.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ingreso')
+ 2 APPPATH\Controllers\Ingreso.php(69): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Ingreso->logout()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ingreso))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
