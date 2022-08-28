@@ -7,6 +7,8 @@ class Ingreso extends BaseController
 
     function __construct()
     {
+        $this->session = \Config\Services::session();
+        echo $this->session->get("login");
     }
 
     public function index()
@@ -46,9 +48,9 @@ class Ingreso extends BaseController
             
             $num2 = $datos->where('dni', $dni)->where('pin',$pin)->where('activo',1)    ;
             $userModel = new \App\Models\Modelo();
-            $user = $userModel->find('48411441');
+            //$user = $userModel->find('48411441');
 
-            echo $user['nombres'];
+            //echo $user['nombres'];
 
             $data  = array(
                 'dni' => $dni,
@@ -62,7 +64,7 @@ class Ingreso extends BaseController
                 //    .$res->name."!"
             );
 
-           // return redirect()->route('panel');
+            return redirect()->route('panel');
         }
     }
     public function logout()

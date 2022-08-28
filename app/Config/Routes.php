@@ -41,7 +41,7 @@ $routes->post('ingreso/signIn', 'Ingreso::signIn');
 $routes->get('logout', 'Ingreso::logout');
 
 
-$routes->match(['get','post'],'panel', 'Panel::index');
+$routes->match(['get','post'],'panel', 'Panel::index',['filter' => 'sessionf']);
 
 /*
  * --------------------------------------------------------------------
